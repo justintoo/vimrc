@@ -13,10 +13,6 @@
 
 set listchars=tab:▸\ ,trail:∞
 
-set mouse=a
-" select when using the mouse
-set selectmode=mouse
-
 " allow backspacing over everything in insert mode
 set backspace=indent,eol,start
 
