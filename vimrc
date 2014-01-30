@@ -1,3 +1,16 @@
+" TIPS
+"
+" :help various-motions   Convenient code navigation
+" :help search-commands
+"
+" :help word-motions
+" :help word-motions
+"
+"
+" Want to move to the 3rd occurrence of the letter ‘h’? Press 3fh.
+" To move to the next sentence, press ).
+
+
 set listchars=tab:▸\ ,trail:∞
 
 set mouse=a
